@@ -30,12 +30,12 @@ Actualmente se incluyen únicamente cinco empleados para fines de prueba y demos
 Se utilizó para el desarrollo: Python, Google Colab, GitHub, BPMN 2.0
 
 Estructura del repositorio
-CostantiniLuciano_OrganizacionEmpresarial
-│
-├── BPMN.png
-├── README.md
-├── chatbot.ipynb
-└── empleados.csv
+CostantiniLuciano_OrganizacionEmpresarial 
+│ 
+├── BPMN.png  ---> Diagrama BPMN del proceso 
+├── README.md  ---> Documentación del proyecto 
+├── chatbot.ipynb  ---> Implementación del chatbot en Google Colab 
+└── empleados.csv  ---> Base de datos simulada de empleados
 
 Ejecución
 1. Abrir el archivo del chatbot en Python o Google Colab.
